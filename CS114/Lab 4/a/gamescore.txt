@@ -1,0 +1,6 @@
+Mike,1105
+Rob,750
+Paul,720
+Anna,660
+Rose,590
+Jack,510
