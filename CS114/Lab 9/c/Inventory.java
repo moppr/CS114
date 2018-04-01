@@ -5,7 +5,7 @@ package c;
 //
 //********************************************************************
 
-public class Inventory //asdasdass
+public class Inventory
 {
    protected String PartNo;
    protected String Model;
