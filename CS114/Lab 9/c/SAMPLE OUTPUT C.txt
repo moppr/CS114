@@ -1,0 +1,66 @@
+Heap completed
+
+Max-Heap in iterator order :
+Part Number: NI27E1251B Model: ALTIMA SDN List Price: 63.0
+Description: 13-15 NISSAN ALTIMA SDN RT Front fender liner From 10-12 (CAPA)
+
+Part Number: HY07E1288A Model: SONATA List Price: 326.0
+Description: 15-16 HYUNDAI SONATA Front bumper cover 2.4L Std Type w/o Park Assist prime (CAPA)
+
+Part Number: NI23H1297A Model: ALTIMA SDN List Price: 48.0
+Description: 13-15 NISSAN ALTIMA SDN LT Front fender liner From 10-12 (CAPA)
+
+Part Number: CV39A1250A Model: SUBURBAN List Price: 24.0
+Description: 07-14 CHEVY SUBURBAN RT Front fender brace Lower Bracket Hinge
+
+Part Number: GT12C1068A Model: YUKON XL List Price: 24.0
+Description: 07-14 GMC YUKON XL RT Front fender brace Lower Bracket Hinge
+
+Part Number: CV20B1225B Model: SILVERADO 1500 HYBRID List Price: 23.0
+Description: 09-13 CHEVY SILVERADO 1500 HYBRID LT Front fender brace Lower Bracket Hinge
+
+Part Number: CV39A1251A Model: AVALANCHE List Price: 24.0
+Description: 07-13 CHEVY AVALANCHE RT Front fender brace Lower Bracket Hinge
+
+Part Number: CV15F1067A Model: SILVERADO 1500 (NEW) List Price: 23.0
+Description: 07-13 CHEVY SILVERADO 1500 LT Front fender brace Lower Bracket Hinge
+
+Part Number: AC12C1250AQ Model: MDX List Price: 68.0
+Description: 07-13 ACURA MDX LT Front fender liner (CAPA)
+
+Part Number: AC12C1251AQ Model: MDX List Price: 68.0
+Description: 07-13 ACURA MDX RT Front fender liner (CAPA)
+
+Max-Heap in priority order
+Part Number: NI27E1251B Model: ALTIMA SDN List Price: 63.0
+Description: 13-15 NISSAN ALTIMA SDN RT Front fender liner From 10-12 (CAPA)
+
+Part Number: NI23H1297A Model: ALTIMA SDN List Price: 48.0
+Description: 13-15 NISSAN ALTIMA SDN LT Front fender liner From 10-12 (CAPA)
+
+Part Number: HY07E1288A Model: SONATA List Price: 326.0
+Description: 15-16 HYUNDAI SONATA Front bumper cover 2.4L Std Type w/o Park Assist prime (CAPA)
+
+Part Number: GT12C1068A Model: YUKON XL List Price: 24.0
+Description: 07-14 GMC YUKON XL RT Front fender brace Lower Bracket Hinge
+
+Part Number: CV39A1251A Model: AVALANCHE List Price: 24.0
+Description: 07-13 CHEVY AVALANCHE RT Front fender brace Lower Bracket Hinge
+
+Part Number: CV39A1250A Model: SUBURBAN List Price: 24.0
+Description: 07-14 CHEVY SUBURBAN RT Front fender brace Lower Bracket Hinge
+
+Part Number: CV20B1225B Model: SILVERADO 1500 HYBRID List Price: 23.0
+Description: 09-13 CHEVY SILVERADO 1500 HYBRID LT Front fender brace Lower Bracket Hinge
+
+Part Number: CV15F1067A Model: SILVERADO 1500 (NEW) List Price: 23.0
+Description: 07-13 CHEVY SILVERADO 1500 LT Front fender brace Lower Bracket Hinge
+
+Part Number: AC12C1251AQ Model: MDX List Price: 68.0
+Description: 07-13 ACURA MDX RT Front fender liner (CAPA)
+
+Part Number: AC12C1250AQ Model: MDX List Price: 68.0
+Description: 07-13 ACURA MDX LT Front fender liner (CAPA)
+
+
+ ----jGRASP: operation complete.

@@ -1,0 +1,21 @@
+List the input records
+Patient record : Patient priority id: 10 Patient name: Sam Symptom: Bleeding
+Patient record : Patient priority id: 2 Patient name: Carla Symptom: Stroke
+Patient record : Patient priority id: 92 Patient name: Woody Symptom: Flu
+Patient record : Patient priority id: 11 Patient name: Diane Symptom: High-temperature
+Patient record : Patient priority id: 32 Patient name: Norm Symptom: Stomach
+Patient record : Patient priority id: 55 Patient name: Cliff Symptom: Broken-bone
+Patient record : Patient priority id: 6 Patient name: Tom Symptom: Gun-wounds
+Patient record : Patient priority id: 22 Patient name: Kristen Symptom: Pregnancy
+
+
+Priority queue using Comparator:
+Patient priority id: 2 Patient name: Carla Symptom: Stroke
+Patient priority id: 6 Patient name: Tom Symptom: Gun-wounds
+Patient priority id: 10 Patient name: Sam Symptom: Bleeding
+Patient priority id: 11 Patient name: Diane Symptom: High-temperature
+Patient priority id: 22 Patient name: Kristen Symptom: Pregnancy
+Patient priority id: 32 Patient name: Norm Symptom: Stomach
+Patient priority id: 55 Patient name: Cliff Symptom: Broken-bone
+Patient priority id: 92 Patient name: Woody Symptom: Flu
+
