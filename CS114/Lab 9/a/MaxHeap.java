@@ -6,7 +6,7 @@ package a;
     Copyright 2008-2011 by Clifford A. Shaffer
 */
 
-import java.lang.Comparable; //test hello
+import java.lang.Comparable;
 
 /** Max-heap implementation */
 public class MaxHeap<E extends Comparable<? super E>> {
