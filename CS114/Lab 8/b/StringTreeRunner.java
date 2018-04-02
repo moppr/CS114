@@ -8,7 +8,7 @@ public class StringTreeRunner {
 		System.out.println("Recursion: ");
 		a.traverseWithRecursion();
 		System.out.println("\nStack: ");
-		a.traverseWithStack();
+		a.traverseWithStack(); //hello
 	}
 
 }
