@@ -4,7 +4,7 @@ package b;
 //  Patient.java        
 //*******************************************************************
 
-public class Patient
+public class Patient implements Comparable<Patient>
 {
    private int id;
    private String name;
@@ -25,7 +25,7 @@ public class Patient
    //----------------------------------------------------------------
    public String toString()
    {
-      return "Patient priority id: " + id+" Patient name: "+name+" Symptom: "+emergencyCase;
+      return "Patient priority id:  " + id+" \tPatient name: "+name+" \tSymptom: "+emergencyCase; //wow almost like adding tabs made this readable
    }
    
    public String getName()
@@ -42,5 +42,11 @@ public class Patient
    {
     return emergencyCase;
    }
+
+@Override
+public int compareTo(Patient o){
+	// TODO Auto-generated method stub
+	return this.id - o.id;
+}
 
 }

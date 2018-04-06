@@ -5,7 +5,7 @@ package c;
 //
 //********************************************************************
 
-public class Inventory
+public class Inventory implements Comparable<Inventory>
 {
    protected String PartNo;
    protected String Model;
@@ -20,18 +20,21 @@ public class Inventory
    
    }
    
-    public String GetPartNo()
-    {
-      return PartNo;
-    
-    }  
-    public void SetInventory (String ePartNo, String eModel, String eDescription, Double eListPrice)
-   {
+   public /*HOW HARD IS IT TO MAKE THIS A CONSTRUCTOR Set*/Inventory(String ePartNo, String eModel, String eDescription, Double eListPrice)
+   { 
       PartNo = ePartNo;
       Model = eModel;
       Description = eDescription;
       ListPrice = eListPrice;
    }
+   
+   
+    public String GetPartNo()
+    {
+      return PartNo;
+    
+    }  
+  
 
 
    //-----------------------------------------------------------------
@@ -45,7 +48,7 @@ public class Inventory
       result = "Part Number: " + PartNo + " ";
       result += "Model: " + Model + " ";
       result += "List Price: "+ Double.toString(ListPrice) + "\n";
-      result += "Description: " + Description + "\n";
+      result += "Description: " + Description + "";
     }
       return result;
    }
@@ -75,6 +78,12 @@ public class Inventory
    {
         return ListPrice;
    }
+
+@Override
+public int compareTo(Inventory o){
+	// TODO Auto-generated method stub
+	return o.PartNo.compareTo(this.PartNo);
+}
    
 
 }
