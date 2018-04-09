@@ -1,0 +1,5 @@
+ ----jGRASP exec: java Lab10B
+Key count is 52 table is 40.625% full. The number of collision is 324
+Number of collision is 1296
+
+ ----jGRASP: operation complete.
