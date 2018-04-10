@@ -41,7 +41,7 @@ public class HashTableNew<Key extends Comparable<? super Key>, E>{
 				if (HT[pos].key().compareTo(k) == 0)
 					return false;
 				else{
-					//System.out.println(HT[pos].key() + " collide with new key " + k + " with hashcode " + pos);
+					System.out.println(HT[pos].key() + " collide with new key " + k + " with hashcode " + pos);
 					col++; // increase collision count
 				}
 			}
