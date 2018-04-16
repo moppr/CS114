@@ -1,37 +1,34 @@
 package b;
 
-import java.awt.BorderLayout;
-import java.awt.GridLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.awt.*;
+import java.awt.event.*;
+import java.io.*;
 import java.util.Scanner;
-import javax.swing.JButton;
-import javax.swing.JFileChooser;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.JTextArea;
+import javax.swing.*;
 
-public class NotepadMinusMinus extends JFrame {
+public class FileEditor {
+	public static void main(String[] args) {
+		 new FileProgram();
+	}
+}
+
+class FileProgram extends JFrame {
 
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public NotepadMinusMinus() {
+	public FileProgram() {
 		readFile();
 		fileEditor();
 	}
 
 	private File selectedFile;
 	private String selectedFileContents = "";
-	private JButton SaveAndExit = new JButton("Save Changes and Close");
-	private JButton Exit = new JButton("Exit Without Saving");
-	private JFrame frame = new JFrame("NotePad--");
+	private JButton SaveAndExit = new JButton("Save & Close");
+	private JButton Exit = new JButton("Exit ");
+	private JFrame frame = new JFrame("hi kevin");
 	private JTextArea textArea = new JTextArea();
 	
 	
