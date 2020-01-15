@@ -17,7 +17,7 @@ public class SortRunner{
 		insertion();
 		selection(); //the document only asked for the other three but the output example had selection so ¯\_(:|)_/¯
 		merge();	 //eclipse also got mad at me for trying to put the japanese character in that face so ¯\_(:|)_/¯
-		quick();	 //testing how git handles auth/commiter
+		quick();	 //whoops
 
 	}
 
